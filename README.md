@@ -14,7 +14,7 @@ Implements features for management your VirtualBox instances, standalone hypervi
     virtualbox:
       node_ip: '172.16.77.19'
       username: vbox
-      password: '#SDtBnJuUBeQa4GJq!Zhw8EVLQatsk'
+      password: ''
     register: test_success_out
   
   - name: Debug the test_success_out
